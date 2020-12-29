@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
           
-          Updated by omer
+          Updated by omer khan jadoon
         </a>
       </header>
     </div>
